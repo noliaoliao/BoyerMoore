@@ -1,0 +1,4 @@
+BoyerMoore
+==========
+
+BoyerMoore algorithm
